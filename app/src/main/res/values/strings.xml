@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">我的相片筆記本</string>
+    <string name="modify">修改</string>
+    <string name="delete">刪除</string>
+</resources>
